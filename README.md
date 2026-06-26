@@ -133,4 +133,4 @@ MIT © [HarukaYamamoto0](https://github.com/HarukaYamamoto0)
 
 ## Перевод
 
-Русская локализация и перевод README выполнены **LiyaFPV**. 
+Русская локализация и перевод выполнены **LiyaFPV**. 
