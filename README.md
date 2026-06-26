@@ -1,4 +1,4 @@
-# attack-shark-x11-electron
+# attack-shark-x11-electron-ru
 
 ![Attack Shark X11 Gaming Mouse](assets/shark-x11-electron.png)
 
@@ -7,14 +7,14 @@
 
 Кроссплатформенное десктопное приложение для настройки игровой мыши **Attack Shark X11** — DPI, макросы, подсветка, частота опроса и многое другое. Создано на Electron + Vue 3.
 
-Форк [драйвера HarukaYamamoto0](https://github.com/HarukaYamamoto0) с новым GUI и расширенными функциями.
+Форк [драйвера dressedinblack5](https://github.com/dressedinblack5/attack-shark-x11-electron) с переводом на Руский язык.
 
 ---
 
 ## Быстрая установка
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/dressedinblack5/attack-shark-x11-electron/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/liyaFPV/attack-shark-x11-electron-ru/main/install.sh | bash
 ```
 
 Скрипт собирает приложение из исходников — вам понадобятся только Bun, Rust и C-компилятор.
